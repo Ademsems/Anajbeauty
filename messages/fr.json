@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "massages": "Massages",
+    "soins": "Nos Soins",
+    "tarifs": "Tarifs",
+    "blog": "Journal",
+    "contact": "Contact",
+    "booking": "Prendre RDV"
+  },
+  "hero": {
+    "tagline": "Bien-être & Beauté",
+    "headline": "L'art du soin,\nau service\nde votre éclat",
+    "subheadline": "Si vous vous sentez fatigué et stressé, vous méritez le meilleur. Venez profitez de nos soins régénérant le corps et l'esprit.",
+    "cta_primary": "Découvrir nos soins",
+    "cta_secondary": "Prendre rendez-vous"
+  },
+  "about": {
+    "label": "Jana — Fondatrice",
+    "heading": "Une approche\nholistique du bien-être",
+    "body": "Mon approche holistique vise à rétablir l'équilibre physique, émotionnel et spirituel de chacun. Je m'engage à améliorer le bien-être global de chaque personne, en me basant sur mon expérience acquise en Europe centrale, où le culte de la beauté est une tradition importante et où les techniques sont particulièrement avancées.",
+    "body2": "Mon objectif est d'offrir des soins qui vont au-delà de l'apparence, en nourrissant et en harmonisant le corps et l'esprit.",
+    "values": [
+      { "number": "01", "title": "Équilibre", "text": "Rétablir l'harmonie physique, émotionnelle et spirituelle de chacun." },
+      { "number": "02", "title": "Expertise", "text": "Des techniques avancées issues de la tradition européenne de beauté." },
+      { "number": "03", "title": "Personnalisation", "text": "Chaque soin est adapté à vos besoins et objectifs spécifiques." }
+    ]
+  },
+  "massages": {
+    "label": "Massages Bien-Être",
+    "heading": "Retrouvez votre\néquilibre profond",
+    "body": "Je propose une gamme variée de massages relaxants et rééquilibrants pour le corps. Chaque massage est accompagné de conseils en nutrition et de recommandations en naturopathie, pour vous offrir une expérience de bien-être complète et holistique."
+  },
+  "soins": {
+    "label": "Nos Soins",
+    "heading": "La beauté\nde l'intérieur",
+    "body": "Mes soins sont conçus pour vous aider à lutter efficacement contre les effets du vieillissement et du stress. J'ai développé une méthode unique de lifting manuel du visage, combinée à de l'oxygène pur et à des produits naturels."
+  },
+  "services": [
+    {
+      "id": "massage-signature",
+      "name": "Massage Signature Anaj Beauty",
+      "category": "Massage",
+      "price": "179",
+      "duration": "90 min",
+      "description": "Le Massage Signature Anaj Beauty est bien plus qu'un simple soin : c'est une expérience luxueuse et personnalisée qui allie techniques avancées, aromathérapie et oxygénothérapie. Conçu pour procurer un bien-être absolu, ce massage cible les tensions musculaires, stimule la circulation sanguine et offre une relaxation profonde.",
+      "highlights": ["Aromathérapie", "Oxygénothérapie", "Techniques avancées"]
+    },
+    {
+      "id": "madotherapie",
+      "name": "Madothérapie",
+      "category": "Corps",
+      "price": "149",
+      "duration": "75 min",
+      "description": "La Madothérapie est une technique innovante et naturelle qui utilise des outils en bois spécialement conçus pour masser en profondeur et transformer l'apparence de la peau. Originaire d'Amérique latine, cette méthode ancestrale est devenue une référence mondiale pour réduire la cellulite, raffermir les tissus et favoriser une détoxification efficace.",
+      "highlights": ["Réduction cellulite", "Raffermissement", "Détoxification"]
+    },
+    {
+      "id": "soin-minceur",
+      "name": "Soin Minceur Rééquilibrant",
+      "category": "Silhouette",
+      "price": "219",
+      "duration": "120 min",
+      "description": "Le Soin Minceur Rééquilibrant est une expérience unique qui combine des techniques avancées de remodelage corporel et de bien-être énergétique. Ce soin associe madothérapie et réflexologie plantaire pour des résultats visibles et une harmonie intérieure retrouvée.",
+      "highlights": ["Madothérapie", "Réflexologie plantaire", "Remodelage corporel"]
+    },
+    {
+      "id": "drainage-renata",
+      "name": "Drainage Renata França",
+      "category": "Drainage",
+      "price": "159",
+      "duration": "60 min",
+      "description": "Le Drainage Renata França est une méthode révolutionnaire qui combine des techniques de drainage lymphatique avancées pour remodeler et revitaliser le corps. Connu pour ses résultats spectaculaires dès la première séance, ce soin est idéal pour réduire les gonflements, éliminer les toxines et affiner la silhouette.",
+      "highlights": ["Résultats dès la 1ère séance", "Drainage lymphatique", "Légèreté immédiate"]
+    }
+  ],
+  "pricing": {
+    "label": "Tarifs",
+    "heading": "Investissez\ndans votre bien-être",
+    "cta": "Réserver ce soin",
+    "from": "À partir de",
+    "duration": "Durée"
+  },
+  "instagram": {
+    "label": "Instagram",
+    "heading": "Suivez notre univers",
+    "handle": "@anajbeauty",
+    "cta": "Voir sur Instagram"
+  },
+  "contact": {
+    "label": "Contact & Rendez-vous",
+    "heading": "Votre moment\nde bien-être commence ici",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "phone": "Téléphone (optionnel)",
+      "services": "Sélectionnez vos soins",
+      "message": "Votre message",
+      "message_placeholder": "Dites-nous comment nous pouvons vous aider...",
+      "submit": "Envoyer ma demande",
+      "sending": "Envoi en cours...",
+      "success": "Merci ! Nous vous répondrons dans les 24h.",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    },
+    "info": {
+      "address_label": "Adresse",
+      "address": "7 rue Jacques Dulud\n92200 Neuilly-sur-Seine",
+      "email_label": "Email",
+      "email": "info@anajbeauty.com",
+      "phone_label": "Téléphone",
+      "phone": "+33 6 26 81 86 93",
+      "hours_label": "Horaires",
+      "hours_note": "Sur rendez-vous uniquement",
+      "hours": [
+        { "days": "Lundi – Vendredi", "time": "8h00 – 20h00" },
+        { "days": "Samedi – Dimanche", "time": "8h00 – 20h00" }
+      ]
+    }
+  },
+  "blog": {
+    "label": "Journal",
+    "heading": "Conseils\n& Inspirations",
+    "empty": "Aucun article pour le moment.",
+    "read_more": "Lire l'article",
+    "back": "Retour au journal",
+    "published": "Publié le"
+  },
+  "footer": {
+    "tagline": "L'art du bien-être,\nà Neuilly-sur-Seine.",
+    "nav_label": "Navigation",
+    "legal_label": "Légal",
+    "privacy": "Politique de confidentialité",
+    "terms": "Mentions légales",
+    "newsletter_label": "Restez informé(e)",
+    "newsletter_placeholder": "Votre adresse email",
+    "newsletter_cta": "S'inscrire",
+    "newsletter_success": "Merci pour votre inscription !",
+    "copyright": "© {year} Anaj Beauty. Tous droits réservés."
+  },
+  "metadata": {
+    "title": "Anaj Beauty – Massages & Soins à Neuilly-sur-Seine",
+    "description": "Salon de bien-être et de massage à Neuilly-sur-Seine. Massages thérapeutiques, soins du visage et techniques de relaxation avancées. Sur rendez-vous du lundi au dimanche.",
+    "og_title": "Anaj Beauty – L'art du soin à Neuilly-sur-Seine",
+    "og_description": "Découvrez nos massages signature, soins anti-âge et techniques holistiques pour retrouver équilibre et éclat.",
+    "blog_title": "Journal – Anaj Beauty",
+    "blog_description": "Conseils bien-être, tendances beauté et inspirations de Jana.",
+    "contact_title": "Contact & Rendez-vous – Anaj Beauty",
+    "contact_description": "Prenez rendez-vous en ligne ou contactez-nous pour personnaliser votre soin."
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "massages": "Massages",
+    "soins": "Treatments",
+    "tarifs": "Pricing",
+    "blog": "Journal",
+    "contact": "Contact",
+    "booking": "Book Now"
+  },
+  "hero": {
+    "tagline": "Wellness & Beauty",
+    "headline": "The art of care,\nin service\nof your radiance",
+    "subheadline": "If you feel tired and stressed after a long day, you deserve the best. Come experience our treatments that regenerate body and mind.",
+    "cta_primary": "Explore our treatments",
+    "cta_secondary": "Book an appointment"
+  },
+  "about": {
+    "label": "Jana — Founder",
+    "heading": "A holistic approach\nto well-being",
+    "body": "My holistic approach aims to restore the physical, emotional and spiritual balance of each person. I am committed to improving the overall well-being of every individual, drawing on my experience gained in Central Europe, where the cult of beauty is an important tradition and techniques are particularly advanced.",
+    "body2": "My goal is to offer treatments that go beyond appearance, nourishing and harmonizing body and mind.",
+    "values": [
+      { "number": "01", "title": "Balance", "text": "Restoring physical, emotional and spiritual harmony for each person." },
+      { "number": "02", "title": "Expertise", "text": "Advanced techniques rooted in the European tradition of beauty." },
+      { "number": "03", "title": "Personalization", "text": "Every treatment is tailored to your specific needs and goals." }
+    ]
+  },
+  "massages": {
+    "label": "Wellness Massages",
+    "heading": "Rediscover your\ndeep balance",
+    "body": "I offer a diverse range of relaxing and rebalancing massages. Each massage is accompanied by nutritional advice and naturopathic recommendations, to offer you a complete and holistic wellness experience."
+  },
+  "soins": {
+    "label": "Our Treatments",
+    "heading": "Beauty\nfrom within",
+    "body": "My treatments are designed to help you effectively fight the effects of aging and stress. I have developed a unique method of manual face lifting, combined with pure oxygen and natural products."
+  },
+  "services": [
+    {
+      "id": "massage-signature",
+      "name": "Anaj Beauty Signature Massage",
+      "category": "Massage",
+      "price": "179",
+      "duration": "90 min",
+      "description": "The Anaj Beauty Signature Massage is more than a simple treatment: it is a luxurious and personalized experience combining advanced techniques, aromatherapy and oxygen therapy. Designed for absolute well-being, this massage targets muscle tension, stimulates blood circulation and offers deep relaxation.",
+      "highlights": ["Aromatherapy", "Oxygen therapy", "Advanced techniques"]
+    },
+    {
+      "id": "madotherapie",
+      "name": "Madotherapy",
+      "category": "Body",
+      "price": "149",
+      "duration": "75 min",
+      "description": "Madotherapy is an innovative and natural technique that uses specially designed wooden tools to massage deeply and transform the appearance of the skin. Originating from Latin America, this ancestral method has become a world reference for reducing cellulite, firming tissues and promoting effective detoxification.",
+      "highlights": ["Cellulite reduction", "Firming", "Detoxification"]
+    },
+    {
+      "id": "soin-minceur",
+      "name": "Rebalancing Slimming Treatment",
+      "category": "Silhouette",
+      "price": "219",
+      "duration": "120 min",
+      "description": "The Rebalancing Slimming Treatment is a unique experience combining advanced body reshaping techniques and energetic well-being. This treatment combines madotherapy and plantar reflexology for visible results and restored inner harmony.",
+      "highlights": ["Madotherapy", "Plantar reflexology", "Body reshaping"]
+    },
+    {
+      "id": "drainage-renata",
+      "name": "Renata França Drainage",
+      "category": "Drainage",
+      "price": "159",
+      "duration": "60 min",
+      "description": "The Renata França Drainage is a revolutionary method combining advanced lymphatic drainage techniques to reshape and revitalize the body. Known for its spectacular results from the very first session, this treatment is ideal for reducing swelling, eliminating toxins and refining the silhouette.",
+      "highlights": ["Results from 1st session", "Lymphatic drainage", "Immediate lightness"]
+    }
+  ],
+  "pricing": {
+    "label": "Pricing",
+    "heading": "Invest\nin your well-being",
+    "cta": "Book this treatment",
+    "from": "From",
+    "duration": "Duration"
+  },
+  "instagram": {
+    "label": "Instagram",
+    "heading": "Follow our world",
+    "handle": "@anajbeauty",
+    "cta": "View on Instagram"
+  },
+  "contact": {
+    "label": "Contact & Appointments",
+    "heading": "Your moment\nof well-being starts here",
+    "form": {
+      "name": "Your name",
+      "email": "Your email",
+      "phone": "Phone (optional)",
+      "services": "Select your treatments",
+      "message": "Your message",
+      "message_placeholder": "Tell us how we can help you...",
+      "submit": "Send my request",
+      "sending": "Sending...",
+      "success": "Thank you! We will reply within 24 hours.",
+      "error": "An error occurred. Please try again."
+    },
+    "info": {
+      "address_label": "Address",
+      "address": "7 rue Jacques Dulud\n92200 Neuilly-sur-Seine",
+      "email_label": "Email",
+      "email": "info@anajbeauty.com",
+      "phone_label": "Phone",
+      "phone": "+33 6 26 81 86 93",
+      "hours_label": "Opening Hours",
+      "hours_note": "By appointment only",
+      "hours": [
+        { "days": "Monday – Friday", "time": "8:00 AM – 8:00 PM" },
+        { "days": "Saturday – Sunday", "time": "8:00 AM – 8:00 PM" }
+      ]
+    }
+  },
+  "blog": {
+    "label": "Journal",
+    "heading": "Advice\n& Inspirations",
+    "empty": "No articles yet.",
+    "read_more": "Read article",
+    "back": "Back to journal",
+    "published": "Published on"
+  },
+  "footer": {
+    "tagline": "The art of well-being,\nin Neuilly-sur-Seine.",
+    "nav_label": "Navigation",
+    "legal_label": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Legal Notice",
+    "newsletter_label": "Stay informed",
+    "newsletter_placeholder": "Your email address",
+    "newsletter_cta": "Subscribe",
+    "newsletter_success": "Thank you for subscribing!",
+    "copyright": "© {year} Anaj Beauty. All rights reserved."
+  },
+  "metadata": {
+    "title": "Anaj Beauty – Massages & Treatments in Neuilly-sur-Seine",
+    "description": "Wellness and massage studio in Neuilly-sur-Seine. Therapeutic massages, facial treatments and advanced relaxation techniques. By appointment Monday to Sunday.",
+    "og_title": "Anaj Beauty – The Art of Care in Neuilly-sur-Seine",
+    "og_description": "Discover our signature massages, anti-aging treatments and holistic techniques to restore balance and radiance.",
+    "blog_title": "Journal – Anaj Beauty",
+    "blog_description": "Wellness advice, beauty trends and inspirations from Jana.",
+    "contact_title": "Contact & Appointments – Anaj Beauty",
+    "contact_description": "Book online or contact us to personalize your treatment."
+  }
+}
