@@ -2,6 +2,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
+export const dynamic = 'force-dynamic';
 
 const locales = ['fr', 'en'] as const;
 type Locale = (typeof locales)[number];
