@@ -1,0 +1,623 @@
+{
+  "nav": {
+    "banner": "Bilingue FR/EN · Réservation en ligne · Tous les jours 9h–20h",
+    "accueil": "Accueil",
+    "soins": "Soins",
+    "coaching": "Coaching",
+    "boutique": "Boutique",
+    "journal": "Journal",
+    "about": "À Propos",
+    "contact": "Contact",
+    "booking": "Prendre RDV"
+  },
+  "hero": {
+    "tagline": "Bien-être & Beauté",
+    "headline": "L'art du soin,\nau service\nde votre éclat",
+    "subheadline": "Si vous vous sentez fatigué et stressé, vous méritez le meilleur. Venez profiter de nos soins régénérant le corps et l'esprit. Atelier intimiste à Neuilly-sur-Seine — pensés sur-mesure.",
+    "cta_primary": "Découvrir nos soins",
+    "cta_secondary": "Prendre rendez-vous",
+    "trust": "Expertise holistique · Résultats naturels · Excellence parisienne"
+  },
+  "expertise": {
+    "label": "Nos domaines d'expertise",
+    "heading": "Quatre dimensions,\nune approche holistique",
+    "subheading": "Visage, corps, cheveux et bien-être — chaque parcours commence par une écoute attentive.",
+    "cta": "Faire le quiz profil longévité",
+    "categories": [
+      {
+        "name": "Visage",
+        "items": [
+          { "number": "01", "title": "Relâchement\nde l'ovale", "cta": "Découvrir" },
+          { "number": "02", "title": "Hydratation\n& peau déshydratée", "cta": "Découvrir" },
+          { "number": "03", "title": "Éclat, taches\n& rides", "cta": "Découvrir" }
+        ]
+      },
+      {
+        "name": "Corps",
+        "items": [
+          { "number": "04", "title": "Silhouette\n& rétention d'eau", "cta": "Découvrir" },
+          { "number": "05", "title": "Cellulite\n& capitons", "cta": "Découvrir" },
+          { "number": "06", "title": "Cou\n& décolleté", "cta": "Découvrir" }
+        ]
+      },
+      {
+        "name": "Cheveux",
+        "items": [
+          { "number": "07", "title": "Perte\nde cheveux", "cta": "Découvrir" },
+          { "number": "08", "title": "Cuir chevelu\nsensibilisé", "cta": "Découvrir" },
+          { "number": "09", "title": "Densité\n& vitalité", "cta": "Découvrir" }
+        ]
+      },
+      {
+        "name": "Holistique",
+        "items": [
+          { "number": "10", "title": "Stress chronique\n& sommeil", "cta": "Programme" },
+          { "number": "11", "title": "Périménopause\n& hormones", "cta": "Programme" },
+          { "number": "12", "title": "Burn-out\n& épuisement", "cta": "Programme" }
+        ]
+      }
+    ]
+  },
+  "methode": {
+    "label": "Notre approche holistique",
+    "heading": "Trois étapes,\nun parcours sur-mesure",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Diagnostic",
+        "body": "On vous écoute vraiment. Votre peau, vos hormones, votre rythme de vie, votre histoire. Pas de protocole standard — juste vous, et le temps qu'il faut."
+      },
+      {
+        "number": "02",
+        "title": "Personnalisation",
+        "body": "Le soin juste pour vous, ce jour-là. Combinaisons sur-mesure de techniques manuelles ancestrales et innovations cosmétiques d'excellence."
+      },
+      {
+        "number": "03",
+        "title": "Accompagnement",
+        "body": "Un suivi pas à pas pour des résultats durables. Conseils maison, ajustements, programmes adaptés à votre transition — vraiment ensemble."
+      }
+    ]
+  },
+  "soins": {
+    "label": "Nos soins",
+    "heading": "Précision Anaj",
+    "subheading": "20 soins signature pensés sur-mesure — visage, corps, cheveux et bien-être.",
+    "tabs": {
+      "all": "Tous",
+      "visage": "Visage",
+      "corps": "Corps",
+      "cheveux": "Cheveux"
+    },
+    "cta_all": "Voir tous les soins (20)",
+    "new": "Nouveau",
+    "items": [
+      {
+        "id": "lifting-manuel",
+        "name": "Lifting Manuel\ndu Visage",
+        "category": "Signature Anaj",
+        "type": "visage",
+        "subtitle": "Méthode signature manuelle",
+        "duration": "1H ou 1H30",
+        "price": "129",
+        "price2": "159",
+        "description": "Notre technique signature de lift manuel redéfinit l'ovale, remodèle les contours et ravive l'éclat naturel. Sans aiguille, sans douleur — juste des mains expertes et des résultats visibles dès la première séance.",
+        "highlights": ["Lifting non invasif", "Ovale redéfini", "Résultats immédiats"],
+        "isNew": false,
+        "isFeatured": true
+      },
+      {
+        "id": "hydraface",
+        "name": "Hydraface\nRégénérant",
+        "category": "Signature Anaj",
+        "type": "visage",
+        "subtitle": "Exosomes Natinuel",
+        "duration": "1H15",
+        "price": "169",
+        "price2": null,
+        "description": "Alliance de l'hydratation profonde et de la régénération cellulaire grâce aux exosomes Natinuel d'Italie. Peau repulpée, barrière renforcée, éclat retrouvé.",
+        "highlights": ["Exosomes Natinuel", "Hydratation profonde", "Régénération cellulaire"],
+        "isNew": false,
+        "isFeatured": true
+      },
+      {
+        "id": "lymphosculpt",
+        "name": "Lymphosculpt\nby ANAJ",
+        "category": "Signature Anaj",
+        "type": "corps",
+        "subtitle": "Drainage + sculpting signature",
+        "duration": "1H15",
+        "price": "139",
+        "price2": null,
+        "description": "Drainage lymphatique manuel associé à des techniques de sculpture corporelle pour désengorger, affiner et révéler votre silhouette naturelle.",
+        "highlights": ["Drainage lymphatique", "Sculpture corporelle", "Silhouette affinée"],
+        "isNew": false,
+        "isFeatured": true
+      },
+      {
+        "id": "glass-skin",
+        "name": "Glass Skin\nBio Spicules",
+        "category": "Signature Anaj",
+        "type": "visage",
+        "subtitle": "Régénération marine coréenne",
+        "duration": "1H",
+        "price": "139",
+        "price2": null,
+        "description": "Inspiré de la K-Beauty, ce soin utilise des bio spicules marins pour une micro-stimulation naturelle. Peau lissée, pores resserrés, teint uniformisé et lumineux.",
+        "highlights": ["Bio spicules coréens", "Pores resserrés", "Teint lumineux"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "soin-reset",
+        "name": "Soin Reset\nAnti-Stress",
+        "category": "Signature Anaj",
+        "type": "visage",
+        "subtitle": "Détente profonde + sommeil",
+        "duration": "1H",
+        "price": "119",
+        "price2": null,
+        "description": "Un soin holistique conçu pour relâcher les tensions du visage et du crâne, réguler le système nerveux et favoriser un sommeil réparateur. Idéal en période de surmenage.",
+        "highlights": ["Relâchement crânien", "Régulation nerveux", "Sommeil réparateur"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "microneedling",
+        "name": "Microneedling\nAnti-Taches",
+        "category": "Correction",
+        "type": "visage",
+        "subtitle": "Programme éclat uniforme",
+        "duration": "1H",
+        "price": "139",
+        "price2": null,
+        "description": "Micro-stimulation cutanée ciblée pour atténuer les taches pigmentaires, unifier le teint et relancer la production de collagène. Résultats progressifs et durables.",
+        "highlights": ["Anti-pigmentation", "Relance collagène", "Teint unifié"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "peeling-eclat",
+        "name": "Peeling Éclat\nEnzymatique",
+        "category": "Correction",
+        "type": "visage",
+        "subtitle": "Exfoliation douce & uniforme",
+        "duration": "45 MIN",
+        "price": "99",
+        "price2": null,
+        "description": "Exfoliation enzymatique douce qui élimine les cellules mortes, révèle la luminosité naturelle et prépare la peau à absorber pleinement les soins suivants.",
+        "highlights": ["Exfoliation enzymatique", "Éclat immédiat", "Sans irritation"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "soin-peptides",
+        "name": "Soin Liftant\nPeptides",
+        "category": "Correction",
+        "type": "visage",
+        "subtitle": "Fermeté & contours redéfinis",
+        "duration": "1H",
+        "price": "149",
+        "price2": null,
+        "description": "Protocole peptides bio-mimétiques pour stimuler l'élastine et raffermir les contours. Effet lifting visible, peau plus dense et rebondie.",
+        "highlights": ["Peptides bio-mimétiques", "Fermeté renforcée", "Anti-relâchement"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "maderotherapie",
+        "name": "Madérothérapie\nCorps",
+        "category": "Sculpture",
+        "type": "corps",
+        "subtitle": "Méthode colombienne",
+        "duration": "1H ou 1H30",
+        "price": "99",
+        "price2": "139",
+        "description": "Technique colombienne ancestrale aux outils en bois pour réduire la cellulite, drainer les toxines et raffermir les tissus. Résultats visibles dès la première séance.",
+        "highlights": ["Anti-cellulite", "Raffermissement", "Drainage actif"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "drainage-manuel",
+        "name": "Drainage\nLymphatique Manuel",
+        "category": "Sculpture",
+        "type": "corps",
+        "subtitle": "Légèreté & détoxification",
+        "duration": "1H",
+        "price": "129",
+        "price2": null,
+        "description": "Technique manuelle douce qui stimule la circulation lymphatique pour éliminer les toxines, réduire les gonflements et retrouver une sensation de légèreté profonde.",
+        "highlights": ["Circulation lymphatique", "Réduction gonflements", "Légèreté immédiate"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "cou-decollete",
+        "name": "Soin Cou\n& Décolleté",
+        "category": "Sculpture",
+        "type": "corps",
+        "subtitle": "Zone souvent oubliée",
+        "duration": "45 MIN",
+        "price": "89",
+        "price2": null,
+        "description": "Soin dédié au cou et au décolleté pour lutter contre le relâchement, les rides horizontales et la perte de fermeté. Techniques manuelles et actifs repulpants.",
+        "highlights": ["Anti-relâchement", "Rides du cou", "Fermeté retrouvée"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "silhouette-minceur",
+        "name": "Soin Silhouette\n& Minceur",
+        "category": "Sculpture",
+        "type": "corps",
+        "subtitle": "Remodelage global",
+        "duration": "1H30",
+        "price": "149",
+        "price2": null,
+        "description": "Programme complet alliant madérothérapie, drainage et enveloppement pour un remodelage corporel global. Silhouette affinée, peau raffermie.",
+        "highlights": ["Remodelage global", "Madérothérapie", "Enveloppement actif"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "enveloppement-detox",
+        "name": "Enveloppement\nDétox Minéral",
+        "category": "Sculpture",
+        "type": "corps",
+        "subtitle": "Argile & actifs purifiants",
+        "duration": "1H",
+        "price": "119",
+        "price2": null,
+        "description": "Enveloppement à l'argile verte et aux huiles essentielles détoxifiantes pour purifier, reminéraliser et repulper la peau du corps. Résultat peau neuve.",
+        "highlights": ["Détoxification profonde", "Reminéralisation", "Peau repulpée"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "decouverte-natinuel",
+        "name": "Soin Découverte\nNatinuel",
+        "category": "Découverte",
+        "type": "visage",
+        "subtitle": "Cellular Skin Coaching",
+        "duration": "45 MIN",
+        "price": "89",
+        "price2": null,
+        "description": "Premier rendez-vous idéal pour découvrir la méthode ANAJ. Bilan cutané personnalisé, diagnostic précis et mini-soin d'introduction pour définir votre protocole.",
+        "highlights": ["Bilan cutané", "Diagnostic précis", "Protocole personnalisé"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "massage-bien-etre",
+        "name": "Massage\nBien-Être Profond",
+        "category": "Découverte",
+        "type": "corps",
+        "subtitle": "Relaxation totale corps-esprit",
+        "duration": "1H",
+        "price": "109",
+        "price2": null,
+        "description": "Massage suédois enrichi de techniques d'aromathérapie pour un relâchement musculaire profond et une reconnexion corps-esprit. La porte d'entrée idéale vers notre univers.",
+        "highlights": ["Aromathérapie", "Relâchement musculaire", "Détente profonde"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "dermaoxy",
+        "name": "Dermaoxy\nCapillaire",
+        "category": "Cheveux",
+        "type": "cheveux",
+        "subtitle": "Oxygénothérapie scalp & anti-chute",
+        "duration": "45 MIN ou 1H15",
+        "price": "119",
+        "price2": "179",
+        "description": "Traitement capillaire révolutionnaire par oxygénothérapie pour revitaliser le cuir chevelu, stimuler les follicules et lutter efficacement contre la chute de cheveux.",
+        "highlights": ["Oxygénothérapie scalp", "Anti-chute", "Follicules stimulés"],
+        "isNew": true,
+        "isFeatured": true
+      },
+      {
+        "id": "cuir-chevelu",
+        "name": "Soin Cuir Chevelu\nSensibilisé",
+        "category": "Cheveux",
+        "type": "cheveux",
+        "subtitle": "Apaisement & équilibre",
+        "duration": "1H",
+        "price": "129",
+        "price2": null,
+        "description": "Protocole apaisant pour les cuirs chevelus sensibles, irrités ou déséquilibrés. Actifs calmants, massage crânien et soin nutritif pour restaurer l'équilibre du scalp.",
+        "highlights": ["Apaisement profond", "Équilibre du scalp", "Massage crânien"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "densite-vitalite",
+        "name": "Rituel Densité\n& Vitalité",
+        "category": "Cheveux",
+        "type": "cheveux",
+        "subtitle": "Cheveux plus denses & brillants",
+        "duration": "1H15",
+        "price": "149",
+        "price2": null,
+        "description": "Rituel complet pour retrouver des cheveux denses, brillants et vitalisés. Association de soins nutritifs, massage tonifiant et actifs fortifiants naturels.",
+        "highlights": ["Densification", "Brillance retrouvée", "Actifs fortifiants"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "traitement-anti-chute",
+        "name": "Traitement\nAnti-Chute Ciblé",
+        "category": "Cheveux",
+        "type": "cheveux",
+        "subtitle": "Programme intensif scalp",
+        "duration": "1H",
+        "price": "119",
+        "price2": null,
+        "description": "Traitement intensif ciblant les zones de chute avec des actifs capillaires de haute technologie. Associé à des conseils personnalisés sur les causes hormonales ou nutritionnelles.",
+        "highlights": ["Zones ciblées", "Actifs haute-tech", "Conseils personnalisés"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "bilan-capillaire",
+        "name": "Bilan Capillaire\n& Conseils",
+        "category": "Découverte",
+        "type": "cheveux",
+        "subtitle": "Diagnostic expert cuir chevelu",
+        "duration": "30 MIN",
+        "price": "49",
+        "price2": null,
+        "description": "Consultation d'expertise capillaire pour analyser l'état de votre cuir chevelu et de vos cheveux. Bilan complet et plan de soin personnalisé à emporter.",
+        "highlights": ["Analyse trichologique", "Plan de soin", "Conseils experts"],
+        "isNew": false,
+        "isFeatured": false
+      }
+    ]
+  },
+  "cures": {
+    "label": "Programmes signature",
+    "heading": "Cures Forfait\n& Rituels",
+    "subheading": "Pour des résultats durables — chaque cure offre 12 à 18% d'économie sur le prix unitaire.",
+    "items": [
+      {
+        "id": "cures-forfait",
+        "type": "Cures Forfait",
+        "title": "Engagez votre transformation",
+        "description": "Cures de 5 à 10 séances pour Lifting Manuel, LymphoSculpt, HydraFace, Microneedling, Madérothérapie et Drainage. Économies de 12 à 18% selon la cure choisie.",
+        "price": "À partir de €420",
+        "note": "Économie jusqu'à 18%",
+        "cta": "Découvrir les cures"
+      },
+      {
+        "id": "rituel-anaj",
+        "type": "Signature",
+        "title": "Le Rituel Anaj",
+        "description": "Notre rituel signature 2h30 — Lifting Manuel + LymphoSculpt + Le Soin des Yeux + Massage Cou & Décolleté. Une expérience holistique complète, peau · corps · esprit.",
+        "price": "€219",
+        "note": "Soin signature exclusif",
+        "cta": "Réserver le rituel"
+      }
+    ]
+  },
+  "coaching": {
+    "label": "Coaching Longévité",
+    "heading": "Vous n'êtes pas seule\ndans cette traversée",
+    "subheading": "Burn-out. Périménopause. Manque de confiance. Ces moments où on se sent perdue méritent qu'on s'arrête. Qu'on respire. Qu'on soit accompagnée — pour le corps, les hormones, et tout ce qui se passe dedans.",
+    "cta": "Découvrir l'accompagnement",
+    "programs": [
+      { "title": "Burnout Recovery 90 Jours", "slug": "burnout-recovery" },
+      { "title": "Périménopause Sereine 12 Semaines", "slug": "perimenopause-sereine" },
+      { "title": "Confiance en Soi 12 Semaines", "slug": "confiance-en-soi" }
+    ]
+  },
+  "workshop": {
+    "label": "Workshop",
+    "date_label": "14 Juin 2026",
+    "heading": "Glow d'été —\nPréparer votre peau\npour la saison",
+    "description": "Une après-midi exclusive (3h) pour comprendre votre peau, maîtriser l'hydratation profonde, le SPF expert et découvrir le pouvoir des peptides — l'allié anti-UV et anti-âge incontournable de l'été.",
+    "details": [
+      { "label": "Date", "value": "Samedi 14 juin · 14h–17h" },
+      { "label": "Lieu", "value": "Atelier Anaj · Neuilly" },
+      { "label": "Format", "value": "Intime · 8–10 personnes" },
+      { "label": "Inclus", "value": "Mini-soin Peptide Boost · Skincare bag" },
+      { "label": "Tarif early bird", "value": "€99 (au lieu de €129)" }
+    ],
+    "cta": "Réserver ma place"
+  },
+  "boutique": {
+    "label": "La Boutique Anaj",
+    "heading": "Programmes Digitaux\n& Club Anaj",
+    "subheading": "Des contenus exclusifs pour vous accompagner au quotidien — où que vous soyez.",
+    "gift_card": "Cartes cadeaux disponibles dès €50 — valables 1 an sur tous les soins et programmes.",
+    "items": [
+      {
+        "id": "ebook-perimenopause",
+        "type": "E-book",
+        "title": "Périménopause\nSereine",
+        "description": "Comprendre vos hormones, alimentation, sommeil, peau — guide complet 80 pages.",
+        "format": "PDF · Lecture immédiate",
+        "price": "€29",
+        "isFeatured": false
+      },
+      {
+        "id": "mini-cours-sommeil",
+        "type": "Mini-cours",
+        "title": "Sommeil\n& Énergie",
+        "description": "8 vidéos pour retrouver votre énergie naturelle — rituels du soir, alimentation, mouvement.",
+        "format": "Vidéos · Self-paced",
+        "price": "€97",
+        "isFeatured": false
+      },
+      {
+        "id": "programme-perimenopause",
+        "type": "Programme",
+        "title": "Périménopause\nSelf-Paced",
+        "description": "12 semaines pour traverser votre transition avec sérénité — vidéos, exercices, communauté privée.",
+        "format": "12 semaines · Online",
+        "price": "€297",
+        "isFeatured": false
+      },
+      {
+        "id": "club-anaj",
+        "type": "Membership",
+        "title": "Club Anaj\nLongevity",
+        "description": "Conseils mensuels, contenus exclusifs, accès prioritaire ouvertures, communauté privée.",
+        "format": "Phase découverte · Gratuit M1–M6",
+        "price": "€19/mois",
+        "isFeatured": true
+      }
+    ]
+  },
+  "founder": {
+    "label": "Jana — Fondatrice",
+    "heading": "La Méthode Anaj —\nune pratique à votre écoute",
+    "body1": "Chez Anaj, on prend le temps. De vraiment vous écouter. De comprendre votre peau, vos hormones, votre histoire — avant de proposer le soin juste pour vous.",
+    "body2": "La Méthode Anaj est née d'années de pratique, d'une maîtrise des techniques manuelles ancestrales d'Europe centrale et d'une sélection rigoureuse d'innovations cosmétiques multi-culturelles — exosomes Natinuel d'Italie, oxygénothérapie Dermaoxy du Danemark, peptides bio-mimétiques, Bio Spicules K-Beauty.",
+    "body3": "Pas de protocole standard. Juste vous, et le soin juste pour ce jour-là.",
+    "cta": "Découvrir la méthode Anaj",
+    "about_label": "Jana — Fondatrice",
+    "about_heading": "Une approche holistique\ndu bien-être",
+    "about_body1": "Mon approche holistique vise à rétablir l'équilibre physique, émotionnel et spirituel de chacun. Je m'engage à améliorer le bien-être global de chaque personne, en me basant sur mon expérience acquise en Europe centrale, où le culte de la beauté est une tradition importante et où les techniques sont particulièrement avancées.",
+    "about_body2": "Mon objectif est d'offrir des soins qui vont au-delà de l'apparence, en nourrissant et en harmonisant le corps et l'esprit.",
+    "signature": "Jana"
+  },
+  "testimonials": {
+    "label": "Nos clientes parlent",
+    "heading": "Confiance et résultats",
+    "items": [
+      {
+        "quote": "La madérothérapie chez Anaj a complètement transformé mon corps. Ma peau est plus tonique et je me sens beaucoup plus légère.",
+        "name": "Sophie M.",
+        "role": "Consultante"
+      },
+      {
+        "quote": "Le Lifting Manuel Anaj est le meilleur soin du visage que j'ai essayé. Mon visage paraît immédiatement plus lifté et lumineux.",
+        "name": "Claire D.",
+        "role": "Entrepreneure"
+      },
+      {
+        "quote": "Le programme Longevity m'a aidée à retrouver une légèreté que je pensais avoir perdue. Pas une renaissance — juste un retour à moi.",
+        "name": "Isabelle R.",
+        "role": "Directrice"
+      }
+    ]
+  },
+  "avantapres": {
+    "label": "Avant · Après",
+    "heading": "Des résultats visibles\net durables",
+    "subheading": "Photos authentiques de nos clientes, partagées avec leur consentement.",
+    "cta": "Voir toutes les transformations",
+    "items": [
+      { "title": "Lifting Manuel Anaj", "detail": "Cure 6 séances · 3 mois · Ovale redéfini", "session1": "Séance 1", "session2": "Séance 6" },
+      { "title": "Lymphosculpt by Anaj", "detail": "Cure 5 séances · Silhouette tonique", "session1": "Séance 1", "session2": "Séance 5" },
+      { "title": "Hydraface Régénérant", "detail": "Cure 3 séances · Éclat retrouvé", "session1": "Séance 1", "session2": "Séance 3" },
+      { "title": "Microneedling Anti-Taches", "detail": "Cure 4 séances · Teint uniforme", "session1": "Séance 1", "session2": "Séance 4" },
+      { "title": "Madérothérapie Corps", "detail": "Cure 5 séances · Cellulite réduite", "session1": "Séance 1", "session2": "Séance 5" },
+      { "title": "Glass Skin Anaj", "detail": "Cure 4 séances · Bio Spicules K-Beauty", "session1": "Séance 1", "session2": "Séance 4" },
+      { "title": "Dermaoxy Capillaire", "detail": "Cure 6 séances · Densité retrouvée", "session1": "Séance 1", "session2": "Séance 6" }
+    ]
+  },
+  "faq": {
+    "label": "Questions fréquentes",
+    "heading": "Vos questions, nos réponses",
+    "items": [
+      {
+        "question": "Quel soin est fait pour moi ?",
+        "answer": "Chaque parcours commence par un diagnostic personnalisé. Nous vous écoutons — votre peau, vos préoccupations, vos objectifs — avant de vous proposer le soin le plus adapté. Vous pouvez aussi faire notre quiz profil longévité en ligne pour une première orientation."
+      },
+      {
+        "question": "Quelle est la différence avec un institut classique ?",
+        "answer": "Chez Anaj, il n'y a pas de protocole standard. Chaque soin est construit pour vous, ce jour-là, en intégrant votre histoire, vos hormones, votre mode de vie. Nos techniques manuelles ancestrales combinées aux innovations cosmétiques les plus pointues offrent des résultats impossibles à obtenir en institut traditionnel."
+      },
+      {
+        "question": "Combien de temps avant de voir des résultats ?",
+        "answer": "Beaucoup de nos clientes constatent une différence visible dès la première séance — particulièrement pour le Lifting Manuel et le Lymphosculpt. Pour des résultats durables sur des problématiques comme la cellulite, les taches ou la chute de cheveux, une cure de 4 à 6 séances est recommandée."
+      },
+      {
+        "question": "Vos soins sont-ils invasifs ?",
+        "answer": "Non. Nos soins sont 100% non invasifs. Nous n'utilisons ni aiguilles, ni lasers, ni procédures médicales. Toutes nos techniques sont manuelles ou basées sur des actifs cosmétiques de haute performance. Ils sont donc adaptés aux peaux sensibles et peuvent être réalisés toute l'année."
+      },
+      {
+        "question": "Comment fonctionne le coaching longévité ?",
+        "answer": "Nos programmes de coaching sont des accompagnements individuels sur 12 semaines ou 90 jours. Ils combinent des séances en atelier, un suivi à distance, des contenus exclusifs et l'accès à notre communauté privée. Ils s'adressent aux femmes qui traversent une période de transition — burnout, périménopause, perte de confiance."
+      },
+      {
+        "question": "Acceptez-vous les hommes ?",
+        "answer": "Oui, absolument. Si nos communications s'adressent principalement aux femmes, tous nos soins sont ouverts aux hommes. Nous adaptons chaque protocole aux spécificités de la peau masculine."
+      },
+      {
+        "question": "Comment réserver ma séance ?",
+        "answer": "Vous pouvez réserver directement en ligne via notre formulaire de contact ou en nous appelant. Nous confirmons votre rendez-vous sous 24h. L'atelier est ouvert tous les jours de 9h à 20h, sur rendez-vous uniquement."
+      }
+    ]
+  },
+  "newsletter": {
+    "label": "Newsletter Anaj",
+    "heading": "Conseils mensuels\nLongévité",
+    "subheading": "Recevez chaque mois nos conseils sur la peau, les hormones, le sommeil et l'énergie — pour les femmes qui veulent traverser leurs étapes avec sérénité.",
+    "placeholder": "votre@email.fr",
+    "cta": "Rejoindre",
+    "bonus": "Bonus — E-book gratuit \"7 Rituels Longévité Anaj\" + Accès Club Anaj (Phase Découverte gratuite M1-M6)"
+  },
+  "contact": {
+    "label": "Contact & Rendez-vous",
+    "heading": "Votre moment\nde bien-être commence ici",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "phone": "Téléphone (optionnel)",
+      "services": "Sélectionnez vos soins",
+      "message": "Votre message",
+      "message_placeholder": "Dites-nous comment nous pouvons vous aider...",
+      "submit": "Envoyer ma demande",
+      "sending": "Envoi en cours...",
+      "success": "Merci ! Nous vous répondrons dans les 24h.",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    },
+    "info": {
+      "address_label": "Adresse",
+      "address": "7 rue Jacques Dulud\n92200 Neuilly-sur-Seine",
+      "email_label": "Email",
+      "email": "info@anajbeauty.com",
+      "phone_label": "Téléphone",
+      "phone": "+33 X XX XX XX XX",
+      "hours_label": "Horaires",
+      "hours_note": "Sur rendez-vous uniquement",
+      "hours": [
+        { "days": "Tous les jours", "time": "9h00 – 20h00" }
+      ]
+    }
+  },
+  "blog": {
+    "label": "Journal",
+    "heading": "Conseils\n& Inspirations",
+    "empty": "Aucun article pour le moment.",
+    "read_more": "Lire l'article",
+    "back": "Retour au journal",
+    "published": "Publié le"
+  },
+  "footer": {
+    "tagline": "L'art du bien-être,\nà Neuilly-sur-Seine.",
+    "nav_label": "Navigation",
+    "collab_label": "Collaborer",
+    "social_label": "Suivez-nous",
+    "privacy": "Politique de confidentialité",
+    "terms": "Mentions légales",
+    "cgv": "CGV",
+    "newsletter_label": "Restez informé(e)",
+    "newsletter_placeholder": "Votre adresse email",
+    "newsletter_cta": "S'inscrire",
+    "newsletter_success": "Merci pour votre inscription !",
+    "copyright": "© {year} Anaj Beauty — Tous droits réservés."
+  },
+  "metadata": {
+    "title": "Anaj Beauty – Soins Holistiques à Neuilly-sur-Seine",
+    "description": "Atelier de beauté et bien-être à Neuilly-sur-Seine. Soins visage, corps, cheveux et coaching longévité — techniques manuelles ancestrales et innovations cosmétiques sur-mesure. Sur rendez-vous, tous les jours 9h-20h.",
+    "og_title": "Anaj Beauty – L'art du soin à Neuilly-sur-Seine",
+    "og_description": "Découvrez nos 20 soins signature, programmes coaching et rituels holistiques pour retrouver équilibre et éclat.",
+    "blog_title": "Journal – Anaj Beauty",
+    "blog_description": "Conseils bien-être, tendances beauté et inspirations de Jana.",
+    "contact_title": "Contact & Rendez-vous – Anaj Beauty",
+    "contact_description": "Prenez rendez-vous en ligne ou contactez-nous pour personnaliser votre soin."
+  }
+}

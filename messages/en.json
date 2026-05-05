@@ -1,0 +1,623 @@
+{
+  "nav": {
+    "banner": "Bilingual FR/EN · Online Booking · Every day 9am–8pm",
+    "accueil": "Home",
+    "soins": "Treatments",
+    "coaching": "Coaching",
+    "boutique": "Boutique",
+    "journal": "Journal",
+    "about": "About",
+    "contact": "Contact",
+    "booking": "Book Now"
+  },
+  "hero": {
+    "tagline": "Wellness & Beauty",
+    "headline": "The art of care,\nin service\nof your radiance",
+    "subheadline": "If you feel tired and stressed, you deserve the best. Come experience our treatments that regenerate body and mind. Intimate studio in Neuilly-sur-Seine — tailored for you.",
+    "cta_primary": "Explore our treatments",
+    "cta_secondary": "Book an appointment",
+    "trust": "Holistic expertise · Natural results · Parisian excellence"
+  },
+  "expertise": {
+    "label": "Our areas of expertise",
+    "heading": "Four dimensions,\na holistic approach",
+    "subheading": "Face, body, hair and well-being — every journey begins with attentive listening.",
+    "cta": "Take the longevity profile quiz",
+    "categories": [
+      {
+        "name": "Face",
+        "items": [
+          { "number": "01", "title": "Facial oval\nslackening", "cta": "Discover" },
+          { "number": "02", "title": "Hydration\n& dehydrated skin", "cta": "Discover" },
+          { "number": "03", "title": "Radiance, spots\n& wrinkles", "cta": "Discover" }
+        ]
+      },
+      {
+        "name": "Body",
+        "items": [
+          { "number": "04", "title": "Silhouette\n& water retention", "cta": "Discover" },
+          { "number": "05", "title": "Cellulite\n& dimpling", "cta": "Discover" },
+          { "number": "06", "title": "Neck\n& décolletage", "cta": "Discover" }
+        ]
+      },
+      {
+        "name": "Hair",
+        "items": [
+          { "number": "07", "title": "Hair\nloss", "cta": "Discover" },
+          { "number": "08", "title": "Sensitised\nscalp", "cta": "Discover" },
+          { "number": "09", "title": "Density\n& vitality", "cta": "Discover" }
+        ]
+      },
+      {
+        "name": "Holistic",
+        "items": [
+          { "number": "10", "title": "Chronic stress\n& sleep", "cta": "Programme" },
+          { "number": "11", "title": "Perimenopause\n& hormones", "cta": "Programme" },
+          { "number": "12", "title": "Burn-out\n& exhaustion", "cta": "Programme" }
+        ]
+      }
+    ]
+  },
+  "methode": {
+    "label": "Our holistic approach",
+    "heading": "Three steps,\na bespoke journey",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Diagnosis",
+        "body": "We truly listen. Your skin, your hormones, your lifestyle, your story. No standard protocol — just you, and the time it takes."
+      },
+      {
+        "number": "02",
+        "title": "Personalisation",
+        "body": "The right treatment for you, that day. Bespoke combinations of ancestral manual techniques and excellence cosmetic innovations."
+      },
+      {
+        "number": "03",
+        "title": "Support",
+        "body": "Step-by-step follow-up for lasting results. Home advice, adjustments, programmes adapted to your transition — truly together."
+      }
+    ]
+  },
+  "soins": {
+    "label": "Our treatments",
+    "heading": "Anaj Precision",
+    "subheading": "20 signature treatments designed bespoke — face, body, hair and well-being.",
+    "tabs": {
+      "all": "All",
+      "visage": "Face",
+      "corps": "Body",
+      "cheveux": "Hair"
+    },
+    "cta_all": "View all treatments (20)",
+    "new": "New",
+    "items": [
+      {
+        "id": "lifting-manuel",
+        "name": "Manual Face\nLifting",
+        "category": "Anaj Signature",
+        "type": "visage",
+        "subtitle": "Signature manual method",
+        "duration": "1H or 1H30",
+        "price": "129",
+        "price2": "159",
+        "description": "Our signature manual lifting technique redefines the oval, reshapes contours and revives natural radiance. No needles, no pain — just expert hands and visible results from the first session.",
+        "highlights": ["Non-invasive lifting", "Redefined oval", "Immediate results"],
+        "isNew": false,
+        "isFeatured": true
+      },
+      {
+        "id": "hydraface",
+        "name": "Regenerating\nHydraface",
+        "category": "Anaj Signature",
+        "type": "visage",
+        "subtitle": "Natinuel Exosomes",
+        "duration": "1H15",
+        "price": "169",
+        "price2": null,
+        "description": "A union of deep hydration and cellular regeneration through Italian Natinuel exosomes. Plumped skin, reinforced barrier, restored radiance.",
+        "highlights": ["Natinuel exosomes", "Deep hydration", "Cellular regeneration"],
+        "isNew": false,
+        "isFeatured": true
+      },
+      {
+        "id": "lymphosculpt",
+        "name": "Lymphosculpt\nby ANAJ",
+        "category": "Anaj Signature",
+        "type": "corps",
+        "subtitle": "Drainage + signature sculpting",
+        "duration": "1H15",
+        "price": "139",
+        "price2": null,
+        "description": "Manual lymphatic drainage combined with body sculpting techniques to decongest, refine and reveal your natural silhouette.",
+        "highlights": ["Lymphatic drainage", "Body sculpting", "Refined silhouette"],
+        "isNew": false,
+        "isFeatured": true
+      },
+      {
+        "id": "glass-skin",
+        "name": "Glass Skin\nBio Spicules",
+        "category": "Anaj Signature",
+        "type": "visage",
+        "subtitle": "Korean marine regeneration",
+        "duration": "1H",
+        "price": "139",
+        "price2": null,
+        "description": "Inspired by K-Beauty, this treatment uses marine bio spicules for natural micro-stimulation. Smoothed skin, tightened pores, unified and luminous complexion.",
+        "highlights": ["Korean bio spicules", "Tightened pores", "Luminous complexion"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "soin-reset",
+        "name": "Reset Anti-Stress\nTreatment",
+        "category": "Anaj Signature",
+        "type": "visage",
+        "subtitle": "Deep relaxation + sleep",
+        "duration": "1H",
+        "price": "119",
+        "price2": null,
+        "description": "A holistic treatment designed to release facial and cranial tension, regulate the nervous system and promote restorative sleep. Ideal during periods of overwork.",
+        "highlights": ["Cranial release", "Nervous regulation", "Restorative sleep"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "microneedling",
+        "name": "Anti-Spot\nMicroneedling",
+        "category": "Correction",
+        "type": "visage",
+        "subtitle": "Even radiance programme",
+        "duration": "1H",
+        "price": "139",
+        "price2": null,
+        "description": "Targeted skin micro-stimulation to reduce pigmentation spots, unify complexion and relaunch collagen production. Progressive and lasting results.",
+        "highlights": ["Anti-pigmentation", "Collagen boost", "Unified complexion"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "peeling-eclat",
+        "name": "Enzymatic\nRadiance Peel",
+        "category": "Correction",
+        "type": "visage",
+        "subtitle": "Gentle & uniform exfoliation",
+        "duration": "45 MIN",
+        "price": "99",
+        "price2": null,
+        "description": "Gentle enzymatic exfoliation that removes dead cells, reveals natural luminosity and prepares skin to fully absorb subsequent treatments.",
+        "highlights": ["Enzymatic exfoliation", "Immediate radiance", "No irritation"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "soin-peptides",
+        "name": "Lifting Peptides\nTreatment",
+        "category": "Correction",
+        "type": "visage",
+        "subtitle": "Firmness & redefined contours",
+        "duration": "1H",
+        "price": "149",
+        "price2": null,
+        "description": "Bio-mimetic peptide protocol to stimulate elastin and firm contours. Visible lifting effect, denser and more bouncy skin.",
+        "highlights": ["Bio-mimetic peptides", "Enhanced firmness", "Anti-slackening"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "maderotherapie",
+        "name": "Body\nMaderotherapy",
+        "category": "Sculpture",
+        "type": "corps",
+        "subtitle": "Colombian method",
+        "duration": "1H or 1H30",
+        "price": "99",
+        "price2": "139",
+        "description": "Ancestral Colombian technique with wooden tools to reduce cellulite, drain toxins and firm tissues. Visible results from the first session.",
+        "highlights": ["Anti-cellulite", "Firming", "Active drainage"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "drainage-manuel",
+        "name": "Manual Lymphatic\nDrainage",
+        "category": "Sculpture",
+        "type": "corps",
+        "subtitle": "Lightness & detoxification",
+        "duration": "1H",
+        "price": "129",
+        "price2": null,
+        "description": "Gentle manual technique that stimulates lymphatic circulation to eliminate toxins, reduce swelling and restore a feeling of deep lightness.",
+        "highlights": ["Lymphatic circulation", "Reduced swelling", "Immediate lightness"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "cou-decollete",
+        "name": "Neck\n& Décolletage",
+        "category": "Sculpture",
+        "type": "corps",
+        "subtitle": "An often forgotten area",
+        "duration": "45 MIN",
+        "price": "89",
+        "price2": null,
+        "description": "Dedicated treatment for neck and décolletage to combat slackening, horizontal lines and loss of firmness. Manual techniques and plumping actives.",
+        "highlights": ["Anti-slackening", "Neck wrinkles", "Restored firmness"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "silhouette-minceur",
+        "name": "Silhouette\n& Slimming",
+        "category": "Sculpture",
+        "type": "corps",
+        "subtitle": "Global body reshaping",
+        "duration": "1H30",
+        "price": "149",
+        "price2": null,
+        "description": "Complete programme combining maderotherapy, drainage and wrapping for global body reshaping. Refined silhouette, firmed skin.",
+        "highlights": ["Global reshaping", "Maderotherapy", "Active wrapping"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "enveloppement-detox",
+        "name": "Detox Mineral\nWrap",
+        "category": "Sculpture",
+        "type": "corps",
+        "subtitle": "Clay & purifying actives",
+        "duration": "1H",
+        "price": "119",
+        "price2": null,
+        "description": "Green clay and essential oil wrap to purify, remineralise and plump body skin. Results: renewed skin.",
+        "highlights": ["Deep detoxification", "Remineralisation", "Plumped skin"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "decouverte-natinuel",
+        "name": "Natinuel\nDiscovery",
+        "category": "Discovery",
+        "type": "visage",
+        "subtitle": "Cellular Skin Coaching",
+        "duration": "45 MIN",
+        "price": "89",
+        "price2": null,
+        "description": "Ideal first appointment to discover the ANAJ method. Personalised skin assessment, precise diagnosis and introductory mini-treatment to define your protocol.",
+        "highlights": ["Skin assessment", "Precise diagnosis", "Personalised protocol"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "massage-bien-etre",
+        "name": "Deep Wellness\nMassage",
+        "category": "Discovery",
+        "type": "corps",
+        "subtitle": "Total body-mind relaxation",
+        "duration": "1H",
+        "price": "109",
+        "price2": null,
+        "description": "Swedish massage enriched with aromatherapy techniques for deep muscular release and body-mind reconnection. The ideal entry point into our world.",
+        "highlights": ["Aromatherapy", "Muscular release", "Deep relaxation"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "dermaoxy",
+        "name": "Dermaoxy\nCapillaire",
+        "category": "Hair",
+        "type": "cheveux",
+        "subtitle": "Scalp oxygen therapy & anti-loss",
+        "duration": "45 MIN or 1H15",
+        "price": "119",
+        "price2": "179",
+        "description": "Revolutionary hair treatment using oxygen therapy to revitalise the scalp, stimulate follicles and effectively combat hair loss.",
+        "highlights": ["Scalp oxygen therapy", "Anti-hair loss", "Stimulated follicles"],
+        "isNew": true,
+        "isFeatured": true
+      },
+      {
+        "id": "cuir-chevelu",
+        "name": "Sensitised Scalp\nTreatment",
+        "category": "Hair",
+        "type": "cheveux",
+        "subtitle": "Soothing & balance",
+        "duration": "1H",
+        "price": "129",
+        "price2": null,
+        "description": "Soothing protocol for sensitive, irritated or unbalanced scalps. Calming actives, cranial massage and nourishing treatment to restore scalp balance.",
+        "highlights": ["Deep soothing", "Scalp balance", "Cranial massage"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "densite-vitalite",
+        "name": "Density\n& Vitality Ritual",
+        "category": "Hair",
+        "type": "cheveux",
+        "subtitle": "Denser & shinier hair",
+        "duration": "1H15",
+        "price": "149",
+        "price2": null,
+        "description": "Complete ritual to restore dense, shiny and vitalized hair. Combination of nourishing treatments, toning massage and natural strengthening actives.",
+        "highlights": ["Densification", "Restored shine", "Strengthening actives"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "traitement-anti-chute",
+        "name": "Targeted Anti-Loss\nTreatment",
+        "category": "Hair",
+        "type": "cheveux",
+        "subtitle": "Intensive scalp programme",
+        "duration": "1H",
+        "price": "119",
+        "price2": null,
+        "description": "Intensive treatment targeting loss areas with high-technology hair actives. Combined with personalised advice on hormonal or nutritional causes.",
+        "highlights": ["Targeted areas", "High-tech actives", "Personalised advice"],
+        "isNew": false,
+        "isFeatured": false
+      },
+      {
+        "id": "bilan-capillaire",
+        "name": "Hair Diagnosis\n& Advice",
+        "category": "Discovery",
+        "type": "cheveux",
+        "subtitle": "Expert scalp diagnosis",
+        "duration": "30 MIN",
+        "price": "49",
+        "price2": null,
+        "description": "Expert hair consultation to analyse your scalp and hair condition. Full assessment and personalised treatment plan to take away.",
+        "highlights": ["Trichological analysis", "Treatment plan", "Expert advice"],
+        "isNew": false,
+        "isFeatured": false
+      }
+    ]
+  },
+  "cures": {
+    "label": "Signature programmes",
+    "heading": "Package Cures\n& Rituals",
+    "subheading": "For lasting results — each cure offers 12 to 18% savings on the individual price.",
+    "items": [
+      {
+        "id": "cures-forfait",
+        "type": "Package Cures",
+        "title": "Commit to your transformation",
+        "description": "Cures of 5 to 10 sessions for Manual Lifting, LymphoSculpt, HydraFace, Microneedling, Maderotherapy and Drainage. Savings of 12 to 18% depending on the cure chosen.",
+        "price": "From €420",
+        "note": "Save up to 18%",
+        "cta": "Discover cures"
+      },
+      {
+        "id": "rituel-anaj",
+        "type": "Signature",
+        "title": "The Anaj Ritual",
+        "description": "Our 2h30 signature ritual — Manual Lifting + LymphoSculpt + Eye Treatment + Neck & Décolletage Massage. A complete holistic experience, skin · body · mind.",
+        "price": "€219",
+        "note": "Exclusive signature treatment",
+        "cta": "Book the ritual"
+      }
+    ]
+  },
+  "coaching": {
+    "label": "Longevity Coaching",
+    "heading": "You are not alone\nin this journey",
+    "subheading": "Burn-out. Perimenopause. Loss of confidence. These moments when you feel lost deserve a pause. A breath. Accompaniment — for your body, your hormones, and everything happening within.",
+    "cta": "Discover the programme",
+    "programs": [
+      { "title": "Burnout Recovery 90 Days", "slug": "burnout-recovery" },
+      { "title": "Serene Perimenopause 12 Weeks", "slug": "perimenopause-sereine" },
+      { "title": "Self-Confidence 12 Weeks", "slug": "confiance-en-soi" }
+    ]
+  },
+  "workshop": {
+    "label": "Workshop",
+    "date_label": "14 June 2026",
+    "heading": "Summer Glow —\nPrepare your skin\nfor the season",
+    "description": "An exclusive afternoon (3h) to understand your skin, master deep hydration, expert SPF and discover the power of peptides — the essential anti-UV and anti-ageing ally of summer.",
+    "details": [
+      { "label": "Date", "value": "Saturday 14 June · 2pm–5pm" },
+      { "label": "Location", "value": "Atelier Anaj · Neuilly" },
+      { "label": "Format", "value": "Intimate · 8–10 people" },
+      { "label": "Included", "value": "Peptide Boost mini-treatment · Skincare bag" },
+      { "label": "Early bird", "value": "€99 (instead of €129)" }
+    ],
+    "cta": "Reserve my place"
+  },
+  "boutique": {
+    "label": "The Anaj Boutique",
+    "heading": "Digital Programmes\n& Anaj Club",
+    "subheading": "Exclusive content to accompany you daily — wherever you are.",
+    "gift_card": "Gift cards available from €50 — valid for 1 year on all treatments and programmes.",
+    "items": [
+      {
+        "id": "ebook-perimenopause",
+        "type": "E-book",
+        "title": "Serene\nPerimenopause",
+        "description": "Understanding your hormones, nutrition, sleep, skin — complete 80-page guide.",
+        "format": "PDF · Immediate reading",
+        "price": "€29",
+        "isFeatured": false
+      },
+      {
+        "id": "mini-cours-sommeil",
+        "type": "Mini-course",
+        "title": "Sleep\n& Energy",
+        "description": "8 videos to restore your natural energy — evening rituals, nutrition, movement.",
+        "format": "Videos · Self-paced",
+        "price": "€97",
+        "isFeatured": false
+      },
+      {
+        "id": "programme-perimenopause",
+        "type": "Programme",
+        "title": "Perimenopause\nSelf-Paced",
+        "description": "12 weeks to navigate your transition with serenity — videos, exercises, private community.",
+        "format": "12 weeks · Online",
+        "price": "€297",
+        "isFeatured": false
+      },
+      {
+        "id": "club-anaj",
+        "type": "Membership",
+        "title": "Anaj Longevity\nClub",
+        "description": "Monthly advice, exclusive content, priority access, private community.",
+        "format": "Discovery phase · Free M1–M6",
+        "price": "€19/month",
+        "isFeatured": true
+      }
+    ]
+  },
+  "founder": {
+    "label": "Jana — Founder",
+    "heading": "The Anaj Method —\na practice attuned to you",
+    "body1": "At Anaj, we take the time. To truly listen. To understand your skin, your hormones, your story — before suggesting the right treatment for you.",
+    "body2": "The Anaj Method was born from years of practice, mastery of ancestral manual techniques from Central Europe and a rigorous selection of multi-cultural cosmetic innovations — Natinuel exosomes from Italy, Dermaoxy oxygen therapy from Denmark, bio-mimetic peptides, K-Beauty Bio Spicules.",
+    "body3": "No standard protocol. Just you, and the right treatment for that day.",
+    "cta": "Discover the Anaj method",
+    "about_label": "Jana — Founder",
+    "about_heading": "A holistic approach\nto well-being",
+    "about_body1": "My holistic approach aims to restore the physical, emotional and spiritual balance of each person. I am committed to improving the overall well-being of every individual, drawing on my experience gained in Central Europe, where the cult of beauty is an important tradition and techniques are particularly advanced.",
+    "about_body2": "My goal is to offer treatments that go beyond appearance, nourishing and harmonizing body and mind.",
+    "signature": "Jana"
+  },
+  "testimonials": {
+    "label": "Our clients speak",
+    "heading": "Trust and results",
+    "items": [
+      {
+        "quote": "The maderotherapy at Anaj completely transformed my body. My skin is more toned and I feel much lighter.",
+        "name": "Sophie M.",
+        "role": "Consultant"
+      },
+      {
+        "quote": "The Anaj Manual Lifting is the best facial treatment I have ever tried. My face looks immediately lifted and luminous.",
+        "name": "Claire D.",
+        "role": "Entrepreneur"
+      },
+      {
+        "quote": "The Longevity programme helped me rediscover a lightness I thought I had lost. Not a rebirth — just a return to myself.",
+        "name": "Isabelle R.",
+        "role": "Director"
+      }
+    ]
+  },
+  "avantapres": {
+    "label": "Before · After",
+    "heading": "Visible and lasting\nresults",
+    "subheading": "Authentic photos of our clients, shared with their consent.",
+    "cta": "View all transformations",
+    "items": [
+      { "title": "Anaj Manual Lifting", "detail": "6-session cure · 3 months · Redefined oval", "session1": "Session 1", "session2": "Session 6" },
+      { "title": "Lymphosculpt by Anaj", "detail": "5-session cure · Toned silhouette", "session1": "Session 1", "session2": "Session 5" },
+      { "title": "Regenerating Hydraface", "detail": "3-session cure · Restored radiance", "session1": "Session 1", "session2": "Session 3" },
+      { "title": "Anti-Spot Microneedling", "detail": "4-session cure · Unified complexion", "session1": "Session 1", "session2": "Session 4" },
+      { "title": "Body Maderotherapy", "detail": "5-session cure · Reduced cellulite", "session1": "Session 1", "session2": "Session 5" },
+      { "title": "Anaj Glass Skin", "detail": "4-session cure · K-Beauty Bio Spicules", "session1": "Session 1", "session2": "Session 4" },
+      { "title": "Dermaoxy Capillaire", "detail": "6-session cure · Restored density", "session1": "Session 1", "session2": "Session 6" }
+    ]
+  },
+  "faq": {
+    "label": "Frequently asked questions",
+    "heading": "Your questions, our answers",
+    "items": [
+      {
+        "question": "Which treatment is right for me?",
+        "answer": "Every journey begins with a personalised diagnosis. We listen to you — your skin, your concerns, your goals — before suggesting the most suitable treatment. You can also take our longevity profile quiz online for an initial orientation."
+      },
+      {
+        "question": "What is the difference from a classic salon?",
+        "answer": "At Anaj, there is no standard protocol. Every treatment is built for you, that day, integrating your history, your hormones, your lifestyle. Our ancestral manual techniques combined with the most advanced cosmetic innovations deliver results impossible to achieve in a traditional salon."
+      },
+      {
+        "question": "How long before seeing results?",
+        "answer": "Many of our clients notice a visible difference from the first session — particularly for the Manual Lifting and Lymphosculpt. For lasting results on issues like cellulite, spots or hair loss, a course of 4 to 6 sessions is recommended."
+      },
+      {
+        "question": "Are your treatments invasive?",
+        "answer": "No. Our treatments are 100% non-invasive. We use no needles, no lasers, no medical procedures. All our techniques are manual or based on high-performance cosmetic actives. They are therefore suitable for sensitive skin and can be carried out all year round."
+      },
+      {
+        "question": "How does longevity coaching work?",
+        "answer": "Our coaching programmes are individual accompaniments over 12 weeks or 90 days. They combine studio sessions, remote follow-up, exclusive content and access to our private community. They are aimed at women going through a period of transition — burnout, perimenopause, loss of confidence."
+      },
+      {
+        "question": "Do you accept men?",
+        "answer": "Yes, absolutely. While our communications are primarily addressed to women, all our treatments are open to men. We adapt every protocol to the specificities of male skin."
+      },
+      {
+        "question": "How do I book my session?",
+        "answer": "You can book directly online via our contact form or by calling us. We confirm your appointment within 24 hours. The studio is open every day from 9am to 8pm, by appointment only."
+      }
+    ]
+  },
+  "newsletter": {
+    "label": "Anaj Newsletter",
+    "heading": "Monthly Longevity\nAdvice",
+    "subheading": "Receive our monthly advice on skin, hormones, sleep and energy — for women who want to navigate life's stages with serenity.",
+    "placeholder": "your@email.com",
+    "cta": "Join",
+    "bonus": "Bonus — Free e-book \"7 Anaj Longevity Rituals\" + Anaj Club Access (Free Discovery Phase M1–M6)"
+  },
+  "contact": {
+    "label": "Contact & Appointments",
+    "heading": "Your moment\nof well-being starts here",
+    "form": {
+      "name": "Your name",
+      "email": "Your email",
+      "phone": "Phone (optional)",
+      "services": "Select your treatments",
+      "message": "Your message",
+      "message_placeholder": "Tell us how we can help you...",
+      "submit": "Send my request",
+      "sending": "Sending...",
+      "success": "Thank you! We will reply within 24 hours.",
+      "error": "An error occurred. Please try again."
+    },
+    "info": {
+      "address_label": "Address",
+      "address": "7 rue Jacques Dulud\n92200 Neuilly-sur-Seine",
+      "email_label": "Email",
+      "email": "info@anajbeauty.com",
+      "phone_label": "Phone",
+      "phone": "+33 X XX XX XX XX",
+      "hours_label": "Opening Hours",
+      "hours_note": "By appointment only",
+      "hours": [
+        { "days": "Every day", "time": "9:00 AM – 8:00 PM" }
+      ]
+    }
+  },
+  "blog": {
+    "label": "Journal",
+    "heading": "Advice\n& Inspirations",
+    "empty": "No articles yet.",
+    "read_more": "Read article",
+    "back": "Back to journal",
+    "published": "Published on"
+  },
+  "footer": {
+    "tagline": "The art of well-being,\nin Neuilly-sur-Seine.",
+    "nav_label": "Navigation",
+    "collab_label": "Collaborate",
+    "social_label": "Follow us",
+    "privacy": "Privacy Policy",
+    "terms": "Legal Notice",
+    "cgv": "T&Cs",
+    "newsletter_label": "Stay informed",
+    "newsletter_placeholder": "Your email address",
+    "newsletter_cta": "Subscribe",
+    "newsletter_success": "Thank you for subscribing!",
+    "copyright": "© {year} Anaj Beauty — All rights reserved."
+  },
+  "metadata": {
+    "title": "Anaj Beauty – Holistic Treatments in Neuilly-sur-Seine",
+    "description": "Beauty and wellness studio in Neuilly-sur-Seine. Face, body, hair treatments and longevity coaching — ancestral manual techniques and bespoke cosmetic innovations. By appointment, every day 9am–8pm.",
+    "og_title": "Anaj Beauty – The Art of Care in Neuilly-sur-Seine",
+    "og_description": "Discover our 20 signature treatments, coaching programmes and holistic rituals to restore balance and radiance.",
+    "blog_title": "Journal – Anaj Beauty",
+    "blog_description": "Wellness advice, beauty trends and inspirations from Jana.",
+    "contact_title": "Contact & Appointments – Anaj Beauty",
+    "contact_description": "Book online or contact us to personalise your treatment."
+  }
+}
